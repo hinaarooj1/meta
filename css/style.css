@@ -228,6 +228,11 @@ body {
         font-size: 25px;
     }
 
+    .loogo img {
+        width: 110px;
+    }
+
+
     .section-poly img {
         width: 160px;
     }

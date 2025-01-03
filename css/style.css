@@ -232,6 +232,10 @@ body {
         width: 160px;
     }
 
+    .section-poly {
+        top: -20px;
+    }
+
     .this-sec {
         gap: 20px !important;
     }

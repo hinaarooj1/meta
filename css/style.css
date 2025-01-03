@@ -151,4 +151,8 @@ body {
     .loogo img {
         width: 150px;
     }
+
+    .this-sec {
+        gap: 40px;
+    }
 }

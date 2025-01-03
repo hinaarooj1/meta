@@ -231,4 +231,8 @@ body {
     .section-poly img {
         width: 160px;
     }
+
+    .this-sec {
+        gap: 20px !important;
+    }
 }

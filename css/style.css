@@ -34,7 +34,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 
@@ -134,5 +134,21 @@ body {
 @media (max-width:990px) {
     .this-sec {
         flex-direction: column;
+    }
+
+    .left-section p {
+        font-size: 40px;
+    }
+
+    .section-poly img {
+        width: 300px;
+    }
+
+    .footer img {
+        width: 200px;
+    }
+
+    .loogo img {
+        width: 150px;
     }
 }
